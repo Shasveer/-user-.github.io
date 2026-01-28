@@ -2,7 +2,7 @@
 
 # Welcome to my portfolio!
 
-*Hi, my name is Shasveer Ramchander, I am currently a learner at shaper, who is doing a learnership towards data science. I am a well-motivated person who will be using my skills and knowledge I gain to be a data analyst.*
+# _Hi, my name is Shasveer Ramchander, I am currently a learner at shaper, who is doing a learnership towards data science. I am a well-motivated person who will be using my skills and knowledge I gain to be a data analyst._
 
 # My Target Role:
 My target role will be to become a data analyst, as I would like to make a difference in the financial sector. Also, I will clean, collect, and organize raw data. I chose this role because without a data analyst a project cannot be complete to the best of its ability since the data being used will be raw and not cleaned so you will not be able to get accurate information regarding the project. 
