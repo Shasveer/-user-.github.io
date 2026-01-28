@@ -1,14 +1,14 @@
 # -shasveer-shaper-.github.io
-##Welcome to my portfolio!
+# Welcome to my portfolio!
 Hi, my name is Shasveer Ramchander, I am currently a learner at shaper, who is doing a learnership towards data science. I am a well-motivated person who will be using my skills and knowledge I gain to be a data analyst. 
 
 My target role will be to become a data analyst, as I would like to make a difference in the financial sector. Also, I will clean, collect, and organize raw data. I chose this role because without a data analyst a project cannot be complete to the best of its ability since the data being used will be raw and not cleaned so you will not be able to get accurate information regarding the project. 
 
-My projects ideas are as follows: 
+# My projects ideas are as follows: 
 
-I would like to create a campaign that makes customers in the financial sector aware of the different types of frauds and scams going around i would like to do this campaign threw social media platforms, by analyzing data to see who is a higher risk to being victim of a scam/fraud. 
+1. I would like to create a campaign that makes customers in the financial sector aware of the different types of frauds and scams going around i would like to do this campaign threw social media platforms, by analyzing data to see who is a higher risk to being victim of a scam/fraud. 
 
-Another project I would like to get involved in would be to fraud detection in transactions where I will create a machine learning model that will detect fraudulent transactions to help improve security in the financial sector. 
+2. Another project I would like to get involved in would be to fraud detection in transactions where I will create a machine learning model that will detect fraudulent transactions to help improve security in the financial sector. 
 
  
 
